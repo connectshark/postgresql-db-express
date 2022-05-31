@@ -1,3 +1,4 @@
+require('dotenv').config()
 const pool = require('./db/connection')
 const express = require('express')
 const app = express()
