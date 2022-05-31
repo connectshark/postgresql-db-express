@@ -1,5 +1,5 @@
 {
-  "name": "postgresql-express",
+  "name": "postgresql-db-express",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
